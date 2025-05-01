@@ -1,8 +1,8 @@
 {
     "files.exclude": {
-        // "**/README.md": true,
+        "**/README.md": true,
 
-        // "**/.gitignore": true,
+        "**/.gitignore": true,
         "**/.metadata": true,
         "**/.idea": true,
         "**/.dart_tool": true,
@@ -24,7 +24,7 @@
         "**/.flutter-plugins": true,
         "**/.flutter-plugins-dependencies": true,
 
-        // "**/android": true,
+        "**/android": true,
         "**/fonts": true,
         // "**/pubspec.yaml": true,
     },
