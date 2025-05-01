@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:servenow_mobile/screens/add_service.dart';
-import 'package:servenow_mobile/screens/manage_service.dart';
 import 'package:servenow_mobile/services/tasker_service.dart';
 
 class Services extends StatefulWidget {
